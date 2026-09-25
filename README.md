@@ -183,19 +183,36 @@ Specialist AI agents handle specific tasks:
 
 
 ---
+# 📸 Application Preview
 
+## 🚀 API Endpoint Demonstrations
 
-**###🔌🚀 API Endpoint Demonstrations**
+## Contract Review 
 
-
-```
-
-```
-### Contract Review
-
-```
 > ![Contract Review](./app%20preview/contract%20review.png)
+
 ```
+```
+## Case Research 
+
+> ![Case Research](./app%20preview/case%20research.png)
+
+
+```
+
+```
+## Documents Drafting
+
+> ![Documents Drafting](./app%20preview/documents%20drafting.png)
+
+```
+
+```
+
+
+## 🔌 API Reference
+
+### Contract Review
 
 ```http
 POST /api/v1/contract/review
@@ -238,10 +255,6 @@ Content-Type: application/json
 ```
 
 ### Case Research
-```
-> ![Contract Review](./app%20preview/contract%20review.png)
-
-```
 
 ```http
 POST /api/v1/case/research
@@ -258,10 +271,6 @@ Content-Type: application/json
 ```
 
 ### Document Drafting
-```
-> ![Documents Drafting](./app%20preview/documents%20drafting.png)
-
-```
 
 ```http
 POST /api/v1/document/draft
